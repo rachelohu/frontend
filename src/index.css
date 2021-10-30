@@ -15,5 +15,6 @@ code {
 
 .button, button {
   cursor: pointer;
-  background: white;
+  background: black;
+  border: 0.1rem solid white;
 }
