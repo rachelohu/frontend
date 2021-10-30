@@ -14,9 +14,9 @@ code {
 }
 
 .button, button {
-  width: 100%;
+  width: 50%;
   padding: 12px 20px;
   cursor: pointer;
-  background: white;
-  border: 0.1rem solid black;
+  background: whitesmoke;
+  border: 0.3rem solid black;
 }
